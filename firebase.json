@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "wandafullterrassebymira",
+    "site": "wandafullterrassebymira-k6z9v",
     "public": "dist",
     "ignore": [
       "firebase.json",
